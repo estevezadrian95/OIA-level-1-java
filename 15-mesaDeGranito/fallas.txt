@@ -1,0 +1,10 @@
+esta mal planteado la logica ya que 
+si los datos son: 
+6
+1 6
+2 5
+3 4
+4 3
+5 2
+6 1
+tiene que dar como salida 3.... pero da 1
